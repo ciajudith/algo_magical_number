@@ -1,0 +1,9 @@
+# Exercises
+
+## Overview
+
+This project contains a series of exercises on algorithms and data structures. Each exercise is designed to help me muscle my problem-solving skills and deepen my Python skills for AI and machine learning.
+
+### First Exercise: Magical number - Amstrong number
+An Armstrong number (or narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits. For example, 153 is an Armstrong number because:
+1^3 + 5^3 + 3^3 = 153
