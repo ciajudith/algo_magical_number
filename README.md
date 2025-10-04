@@ -9,4 +9,7 @@ An Armstrong number (or narcissistic number) is a number that is equal to the su
 1^3 + 5^3 + 3^3 = 153
 
 ### Second Exercise: Custom Sorting Algorithm
-Implement a custom sorting algorithm to sort a list of word first based on their lengths and then alphabetically for words of the same length.
+Implementing a custom sorting algorithm to sort a list of word first based on their lengths and then alphabetically for words of the same length.
+
+### Third Exercise: RLE Compression
+Implementing a Run-Length Encoding (RLE) compression algorithm that compresses a string by replacing consecutive identical characters with the character followed by the count of repetitions.
