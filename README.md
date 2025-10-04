@@ -7,3 +7,6 @@ This project contains a series of exercises on algorithms and data structures. E
 ### First Exercise: Magical number - Amstrong number
 An Armstrong number (or narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits. For example, 153 is an Armstrong number because:
 1^3 + 5^3 + 3^3 = 153
+
+### Second Exercise: Custom Sorting Algorithm
+Implement a custom sorting algorithm to sort a list of word first based on their lengths and then alphabetically for words of the same length.
