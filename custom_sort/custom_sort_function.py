@@ -2,7 +2,6 @@ def custom_sort(list_to_sort):
     count_letter_list = []
     for i in range(len(list_to_sort)):
         count_letter_list.append((i, list_to_sort[i], len(list_to_sort[i])))
-
     ordered_list = []
 
     while len(ordered_list) != len(list_to_sort):
